@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(243, 243, 234)
+}
+
+h1{
+    color: blueviolet;
+    font-size: 100px;
+
+}
+h2{
+    color: burlywood;
+    font-size: x-large;
+}
+#test {
+    color: brown;
+    font-size: 30px;
+}
+.ghazal{
+    color: chartreuse;
+    font-size: large;
+}
