@@ -37,3 +37,11 @@ color: aquamarine;
      strong{
         font-size: xxx-large;
      }
+     table{
+        background-color: blue;
+        direction: ltr;
+        margin: 80px;
+        width: 90%;
+        height: 30%;
+        text-align: center;
+     }
