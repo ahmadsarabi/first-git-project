@@ -37,7 +37,7 @@ color: aquamarine;
      strong{
         font-size: xxx-large;
      }
-     table{
+     .table{
         background-color: blue;
         direction: ltr;
         margin: 80px;
